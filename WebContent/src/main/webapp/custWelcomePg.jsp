@@ -8,7 +8,7 @@
 </head>
 <body>
 <center>
-<h1>Welcome to Car Servicing</h1>
+<h1>Welcome to Car Servicing Project..!!</h1>
 <br>
 <br>
 Click<a href="adminLoginPg.jsp"> here</a> for ADMIN Login
